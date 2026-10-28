@@ -1,0 +1,10 @@
+# Full-resolution originals (102 MB, with EXIF) — web-sized copies live in images/photos/
+WebsitePhotos/
+images/profile.jpg
+.DS_Store
+
+# Kept locally but not published (unused on the site)
+cv.html
+images/pub_fluctuations.png
+images/research_photo.jpg
+images/research_star.jpg
