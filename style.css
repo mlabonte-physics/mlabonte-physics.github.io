@@ -8,8 +8,8 @@
     --bg-card: #e6ddcb;
     --text-primary: #000000;
     --text-secondary: #000000;
-    --accent: #6b5230;
-    --accent-hover: #7d6138;
+    --accent: #002d5a;
+    --accent-hover: #12416f;
     --border: #d1c9b8;
     --font-body: 'Times New Roman', Times, serif;
     --font-heading: 'Times New Roman', Times, serif;
@@ -74,9 +74,9 @@ nav {
 
 .nav-name {
     font-family: var(--font-heading);
-    font-size: 1.15rem;
+    font-size: 1.5rem;
     font-weight: 700;
-    color: var(--text-primary);
+    color: var(--accent);
     text-decoration: none;
     letter-spacing: 0.02em;
 }
